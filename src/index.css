@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #5c6060;
+  --secondary-color: rgb(36, 54, 70);
+  --third-color: #f3f3f3;
+  --fourth-color: #3498db;
+
+  --gray-v1: #999;
+  --gray-v2: #666;
+}

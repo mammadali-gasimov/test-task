@@ -1,0 +1,7 @@
+.text__input {
+  padding: 5px 10px;
+  min-width: 220px;
+  border-radius: 5px;
+  border: 1px solid var(--secondary-color);
+  font-size: 1rem;
+}

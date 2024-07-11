@@ -1,0 +1,9 @@
+.header {
+  margin: 2.2rem 0;
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+  color: var(--secondary-color);
+}

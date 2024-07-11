@@ -1,0 +1,17 @@
+.button {
+  background-color: var(--secondary-color);
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 12px;
+  box-shadow: 0 9px var(--gray-v1);
+}
+
+.button:hover {
+  box-shadow: 0 5px var(--gray-v2);
+  transform: translateY(4px);
+}
